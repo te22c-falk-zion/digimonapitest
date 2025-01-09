@@ -12,3 +12,4 @@ c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\refint\digimon.
 c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.pdb
 c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.genruntimeconfig.cache
 c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\ref\digimon.dll
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.sourcelink.json
