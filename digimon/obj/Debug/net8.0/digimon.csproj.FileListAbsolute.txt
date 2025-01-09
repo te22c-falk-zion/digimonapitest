@@ -1,0 +1,14 @@
+c:\Users\zion.falk\Programming2\digimon\digimon\bin\Debug\net8.0\digimon.exe
+c:\Users\zion.falk\Programming2\digimon\digimon\bin\Debug\net8.0\digimon.deps.json
+c:\Users\zion.falk\Programming2\digimon\digimon\bin\Debug\net8.0\digimon.runtimeconfig.json
+c:\Users\zion.falk\Programming2\digimon\digimon\bin\Debug\net8.0\digimon.dll
+c:\Users\zion.falk\Programming2\digimon\digimon\bin\Debug\net8.0\digimon.pdb
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.AssemblyInfoInputs.cache
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.AssemblyInfo.cs
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.csproj.CoreCompileInputs.cache
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.dll
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\refint\digimon.dll
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.pdb
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\digimon.genruntimeconfig.cache
+c:\Users\zion.falk\Programming2\digimon\digimon\obj\Debug\net8.0\ref\digimon.dll
